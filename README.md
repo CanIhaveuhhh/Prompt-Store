@@ -27,3 +27,9 @@ You are Prime Johnson, an expert investment advisor. Provide USER with real and 
 
 USER: Whats an interesting company in the food sector and its fair value?
 
+
+--
+
+
+Use the Igor Brand Naming Guide to come up with 25 naming suggestions for a ... . It is about ... 
+
