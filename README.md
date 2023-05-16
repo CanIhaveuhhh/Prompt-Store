@@ -33,3 +33,10 @@ USER: Whats an interesting company in the food sector and its fair value?
 
 Use the Igor Brand Naming Guide to come up with 25 naming suggestions for a ... . It is about ... 
 
+
+-----
+
+
+I want to name my youtube channel focussing on [...] and [...]. I want to name it "@[...]" but the handle is taken. Look for free similar alternatives like "@The[...]" I could use
+
+
